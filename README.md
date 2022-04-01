@@ -1,4 +1,4 @@
-# NUC ENG 156/256 References
+# Nuclear Criticality Safety References
 
 These references are for NUC ENG 156/256 at UC Berkeley.
   
