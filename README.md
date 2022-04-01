@@ -1,6 +1,6 @@
-# Nuclear Criticality Safety References
+# References
 
-These references are for NUC ENG 156/256 at UC Berkeley.
+These references are for NUC ENG 156/256.
   
 ## Instructions for installing OpenMC  
   
