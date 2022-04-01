@@ -1,6 +1,6 @@
 # References
 
-These references are for the NUC ENG 156/256 course I co-taught at UC Berkeley.  
+These references are for NUC ENG 156/256.
   
 ## Instructions for installing OpenMC  
   
