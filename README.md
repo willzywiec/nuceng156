@@ -1,6 +1,6 @@
-# Nuclear Criticality Safety(!)
+# Nuclear Criticality Safety!
 
-Herein lies the course references for NUC ENG 156/256.
+Herein lie the course references for NUC ENG 156/256.
   
 ## Instructions for installing OpenMC  
   
