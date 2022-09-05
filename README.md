@@ -1,4 +1,4 @@
-# Nuclear Criticality Safety!
+# Nuclear Criticality Safety
 
 Herein lie the course references for NUC ENG 156/256.
   
