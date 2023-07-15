@@ -1,6 +1,6 @@
 # Nuclear Criticality Safety
 
-Course references for NUC ENG 156/256 at the University of California, Berkeley
+Course references for NUC ENG 156/256, which is taught at the University of California, Berkeley
   
 ## Instructions for installing OpenMC  
   
